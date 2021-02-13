@@ -1,5 +1,5 @@
 # Virtual machine created by Vagrant
-VM Ubuntu 18.04 with a complete GUI
+VM Ubuntu 18.04 with a complete GUI.
 
 ## How to configure VM
 How to use Vagrant you can find [here](https://www.vagrantup.com/intro).
